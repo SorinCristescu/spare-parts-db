@@ -3,7 +3,6 @@
     "_id": "kdjhfg874rgbkewnc8e645",
     "model": "Tesla Model 3 Performance",
     "price": "54,000",
-    "topspeed": "162",
     "range": "300",
     "description": "Model 3 comes with the option of dual motor all-wheel drive, Performance Wheels and Brakes for total control, in all weather conditions and a spoiler improves stability at high speeds allowing Model 3 to accelerate from 0-60 mph in as little as 3.2 seconds.",
     "safety": "Safety is the most important part of the overall Model 3 design. The metal structure is a combination of aluminum and steel, for maximum strength in every area. In a roof-crush test, Model 3 resisted four times its own mass, even with an all-glass roof"
@@ -12,7 +11,6 @@
     "_id": "5e7ca3a26564b1f2a3b799f4",
     "model": "Tesla Model 3 Standard Plus",
     "price": "41,000",
-    "topspeed": "140",
     "range": "250",
     "description": "Model 3 comes with the option of dual motor all-wheel drive, Performance Wheels and Brakes for total control, in all weather conditions and a spoiler improves stability at high speeds allowing Model 3 to accelerate from 0-60 mph in as little as 3.2 seconds.",
     "safety": "Safety is the most important part of the overall Model 3 design. The metal structure is a combination of aluminum and steel, for maximum strength in every area. In a roof-crush test, Model 3 resisted four times its own mass, even with an all-glass roof"
@@ -21,7 +19,6 @@
     "_id": "5e7d02c96564b1f2a3b7ac6b",
     "model": "Tesla Model S Performance",
     "price": "102,000",
-    "topspeed": "165",
     "range": "348",
     "description": "Model S sets an industry standard for performance and safety. Tesla’s all-electric powertrain delivers unparalleled performance in all weather conditions – with Dual Motor All-Wheel Drive, adaptive air suspension and ludicrous acceleration.",
     "safety": "Model S is built from the ground up as an electric vehicle, with high-strength architecture and a floor-mounted battery pack allowing for incredible impact protection."
@@ -30,7 +27,6 @@
     "_id": "5e7d096d6564b1f2a3b7adc9",
     "model": "Tesla Model S Long Range",
     "price": "81,000",
-    "topspeed": "155",
     "range": "391",
     "description": "Model S sets an industry standard for performance and safety. Tesla’s all-electric powertrain delivers unparalleled performance in all weather conditions – with Dual Motor All-Wheel Drive, adaptive air suspension and ludicrous acceleration.",
     "safety": "Model S is built from the ground up as an electric vehicle, with high-strength architecture and a floor-mounted battery pack allowing for incredible impact protection."
@@ -39,7 +35,6 @@
     "_id": "5e7d0c276564b1f2a3b7ae65",
     "model": "Tesla Model X Performance",
     "price": "104,500",
-    "topspeed": "163",
     "range": "305",
     "description": "Tesla’s all-electric powertrain delivers unparalleled performance in all weather conditions, with Dual Motor All-Wheel Drive, adaptive air suspension and the quickest acceleration of any SUV on the road—from zero to 60 mph in 2.7 seconds.",
     "safety": "Model S is built from the ground up as an electric vehicle, with high-strength architecture and a floor-mounted battery pack allowing for incredible impact protection."
@@ -48,7 +43,6 @@
     "_id": "5e7d0d426564b1f2a3b7aea7",
     "model": "Tesla Model X Long Range",
     "price": "88,000",
-    "topspeed": "155",
     "range": "328",
     "description": "Tesla’s all-electric powertrain delivers unparalleled performance in all weather conditions, with Dual Motor All-Wheel Drive, adaptive air suspension and the quickest acceleration of any SUV on the road—from zero to 60 mph in 2.7 seconds.",
     "safety": "Model S is built from the ground up as an electric vehicle, with high-strength architecture and a floor-mounted battery pack allowing for incredible impact protection."
@@ -57,7 +51,6 @@
     "_id": "5e7d12c86564b1f2a3b7afc0",
     "model": "Tesla Model Y Performance",
     "price": "65,000",
-    "topspeed": "145",
     "range": "315",
     "description": "Model Y provides maximum versatility creating flexible storage for skis, furniture, luggage and a low trunk floor that makes loading and unloading easy and quick with all-Wheel Drive has two ultra-responsive, independent electric motors that digitally control torque.",
     "safety": "Safety is the most important part of the overall Model 3 design. The metal structure is a combination of aluminum and steel, for maximum strength in every area. In a roof-crush test, Model 3 resisted four times its own mass, even with an all-glass roof"
@@ -66,7 +59,6 @@
     "_id": "5e7d13c56564b1f2a3b7b009",
     "model": "Tesla Model Y Long Range AWD",
     "price": "52,000",
-    "topspeed": "135",
     "range": "346",
     "description": "Model Y provides maximum versatility creating flexible storage for skis, furniture, luggage and a low trunk floor that makes loading and unloading easy and quick with all-Wheel Drive has two ultra-responsive, independent electric motors that digitally control torque.",
     "safety": "Safety is the most important part of the overall Model 3 design. The metal structure is a combination of aluminum and steel, for maximum strength in every area. In a roof-crush test, Model 3 resisted four times its own mass, even with an all-glass roof"
